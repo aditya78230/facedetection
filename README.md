@@ -56,5 +56,5 @@ The challenge in developing a reliable face recognition system lies in accuratel
 The face recognition system achieved a remarkable accuracy score of 0.92, indicating precise predictions for 92% of the test dataset. Precision, recall, and F1-score metrics further validate the model's effectiveness. Rigorous validation techniques including train-test split and k-fold cross-validation ensure robustness and generalizability. Diverse condition testing confirms the system's ability to operate effectively across varied environments. Performance analysis via ROC curve and AUC calculation quantifies its discriminative power. Lastly, comparative analysis highlights the LBPH algorithm's strengths against alternative approaches.
 
 ## Preview
-![Face Recognition System Preview 1](images/preview1.png)
-![Face Recognition System Preview 2](images/preview2.png)
+![Face Recognition System Preview 1](op7.png)
+![Face Recognition System Preview 2](op8.png)
